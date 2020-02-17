@@ -9,7 +9,7 @@
 
 <div id="imagelist">
   <a href="">
-    <img align="left" width="300" height="300" src="./assets/img/joke-icon.svg" title="Image 1">
+    <img align="right" width="300" height="300" src="./assets/img/joke-icon.svg" title="Image 1">
       <p class="imgtext">Joke activity.
       </p>
   </a>
@@ -25,7 +25,7 @@
 
 <div id="imagelist">
   <a href="">
-    <img align="left" width="300" height="300" src="./assets/img/sound-icon.svg" title="Image 1">
+    <img align="right" width="300" height="300" src="./assets/img/sound-icon.svg" title="Image 1">
       <p class="imgtext">Sound activity.
       </p>
   </a>
