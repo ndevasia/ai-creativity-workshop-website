@@ -1,22 +1,3 @@
-<style>
-#imagelist a {
-  width: 200px;
-  height: 200px;
-  position: relative;
-  display: block;
-}
-#imagelist img {
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 100%;
-  height: 100%;
-  z-index: 1;
-}
-#imagelist img:hover {
-  opacity: 0.2;
-}
-</style>
 
 <div id="imagelist">
   <a href="">
