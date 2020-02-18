@@ -1,3 +1,10 @@
+<div id="imagelist">
+  <a href="">
+    <img src="http://s0.geograph.org.uk/geophotos/03/97/06/3970600_94c29e78.jpg" />
+    <p class="imgtext">This is the description text.
+    </p>
+  </a>
+</div>
 
 <div id="imagelist">
   <a href="">
