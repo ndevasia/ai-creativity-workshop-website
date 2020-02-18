@@ -23,9 +23,21 @@
     justify-content: center;
   }
 
-  .imagelist a {
+  .imagelist {
+    display: flex;
     width: 250px;
     height: 250px;
+  }
+
+  .imgtext {
+    text-align: center;
+    font-size: 49px;
+    margin: auto; /* Important */
+    margin-top: 46px;
+    color: #317bce;
+  }
+
+  .imagelist a {
     position: relative;
     display: block;
   }
