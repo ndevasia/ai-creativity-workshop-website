@@ -1,8 +1,7 @@
 ---
 ---
 
-<style>
-  @import "";
+@import "{{ site.theme }}";
 
 
   #imagelist a {
@@ -22,4 +21,4 @@
   #imagelist img:hover {
     opacity: 0.2;
   }
-</style>
+
