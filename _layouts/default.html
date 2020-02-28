@@ -11,7 +11,17 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 
-{% seo %}
+    <style type="text/css">
+      .nav-links  {
+        color: #a9a9a9;
+      }
+
+      .nav-links a {
+        color: white;
+      }
+
+    </style>
+
   </head>
 
   <body>
@@ -22,6 +32,20 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
+      <center>
+        <h3 class="nav-links">
+          <a href="/">Overview</a>
+          |
+          <a href="models.html">Models</a>
+          |
+          <a href="materials.html">Workshop Materials</a>
+          |
+          <a href="about.html">About</a>
+        </h3>
+      </center>
+      <a href="https://github.com/pages-themes/cayman/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/pages-themes/cayman/tarball/master" class="btn">Download .tar.gz</a>
+
     </header>
 
     <div id="content-wrapper">
