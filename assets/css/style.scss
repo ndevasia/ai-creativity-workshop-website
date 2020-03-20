@@ -65,3 +65,12 @@
  table, th, td {
      padding: 0.25rem;
   }
+
+ ol {
+   list-style-position: inside;
+ }
+
+ td {
+   text-align: left;
+   padding: 18px 16px;
+ }
